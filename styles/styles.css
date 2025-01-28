@@ -68,12 +68,12 @@ h1 {
   font-size: 56px;
   margin: 0;
   padding: 1%;
-  color: white;
+  color: red;
 }
 p {
   margin: 0;
   padding: 0;
-  visibility: hidden;
+  /* visibility: hidden; */
 }
 .cell {
   min-width: 50px;
